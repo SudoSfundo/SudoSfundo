@@ -23,7 +23,10 @@ I partook in building a smart hydroponic system as part of a sustainable interna
 ---
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sfundo-khumalo-243313249)  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sudosfundo01@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sfundo-khumalo-243313249)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sudosfundo01@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-121212?logo=vercel&logoColor=white)](https://portfolio-10u5.onrender.com)
+
 
 ---
 
