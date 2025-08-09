@@ -4,9 +4,10 @@
 # 💫 About Sudo:
 🔭 I’m currently working on  
 A gamified 3D-themed portfolio website to showcase my software engineering skills.
+Smart Vitals health monitoring platform designed to simplify vital sign tracking and health condition detection through real-time data visualization.
 
 🤝 I’m looking to collaborate on  
-Open-source web applications, especially those that involve full-stack or creative front-end development.
+Open-source web applications, especially those that involve full-stack or AI/ML systems.
 
 👐 I’m looking for help with  
 Creating immersive 3D experiences using Three.js and optimizing performance for web animations.
