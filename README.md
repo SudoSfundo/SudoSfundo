@@ -13,7 +13,7 @@ Open-source web applications, especially those that involve full-stack or AI/ML 
 Creating immersive 3D experiences using Three.js and optimizing performance for web animations.
 
 🌱 I’m currently learning  
-Machine Learning and AI — specifically working with scikit-learn, pandas, NumPy, TensorFlow, and Keras. I'm learning about data preprocessing, classification, and building basic neural networks.
+Machine Learning and AI, specifically working with scikit-learn, pandas, NumPy, TensorFlow, and Keras. I'm learning about data preprocessing, classification, and building basic neural networks.
 
 💬 Ask me about  
 JavaScript, Node.js, MongoDB, Express, REST APIs, and front-end development.
