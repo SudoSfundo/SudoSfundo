@@ -1,7 +1,7 @@
 ---
 
 ---
-# 💫 About Sudo:
+# 💫 About Sfundo implements Sudo:
 🔭 I’m currently working on  
 A gamified 3D-themed portfolio website to showcase my software engineering skills.
 Smart Vitals health monitoring platform designed to simplify vital sign tracking and health condition detection through real-time data visualization.
