@@ -13,11 +13,11 @@ Final-year IT student from South Africa 🇿🇦, building full-stack apps and l
 <summary>📅 Monthly wraps</summary>
 <br />
 
-| Month | Learned | Building | Next month target |
+| Month | Learned | Pipeline :) | Next month target |
 | --- | --- | --- | --- |
-| August 2026 | _add what you picked up this month_ | _add what you're working on_ | _add your target for September_ |
+| August 2026 | Wrapped up ASP.net course | MongoDB Course & personal use Agent research | Agent building in motion |
 
-<sub>Add a new row on top each month, keep the old ones below as a running log.</sub>
+<sub>Hold me accountable and track me :) .</sub>
 
 </details>
 
