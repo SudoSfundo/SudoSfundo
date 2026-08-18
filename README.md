@@ -1,7 +1,8 @@
 <p align="center"><a href="https://portfolio-10u5.onrender.com"><img width="70%" alt="Sfundo: respawned, same player, new avatar" src="./assets/spawn-coffee.svg" /></a></p>
 <br />
 
-Final-year IT student from South Africa 🇿🇦, building full-stack apps and leaning into AI/ML.
+Final-year IT student from South Africa, building full-stack apps and leaning into AI/ML.
+<sub>What's on my mind: Brand new day 🕸🕷🦸🏻‍♂️ yes but the Sinusitis season is upcoming.</sub>
 
 **About me**
 - 🎓 Undergraduate Bachelor of Computing in Software Engineering (NQF8) student researching **blockchain & consent management in healthcare**
@@ -13,7 +14,7 @@ Final-year IT student from South Africa 🇿🇦, building full-stack apps and l
 <summary>📅 Monthly wraps</summary>
 <br />
 
-| Month | Learned | Pipeline :) | Next month target |
+| Month/ Level | Learned/ Badge | Pipeline :) | Next month's quest(s) |
 | --- | --- | --- | --- |
 | August 2026 | Wrapped up ASP.net course | MongoDB Course & personal use Agent research | Agent building in motion |
 
