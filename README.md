@@ -4,7 +4,7 @@
 Final-year IT student from South Africa 🇿🇦, building full-stack apps and leaning into AI/ML.
 
 **About me**
-- 🎓 Honours student researching **blockchain & consent management in healthcare**
+- 🎓 Undergraduate Bachelor of Computing in Software Engineering (NQF8) student researching **blockchain & consent management in healthcare**
 - 🛠️ Building **Smart Vitals** (health monitoring) and a gamified 3D portfolio
 - 🤖 Rebuilding this profile to be a game-like, interactive one, slow going mostly because my AI keeps hallucinating and I keep running out of credits 😉
 - 🕹️ Join my lobby: [LinkedIn](https://www.linkedin.com/in/sfundo-khumalo-243313249) · [Email](mailto:sudosfundo01@gmail.com) · [Portfolio](https://portfolio-10u5.onrender.com)
