@@ -1,0 +1,74 @@
+<svg viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="portalGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#58A6FF" stop-opacity="0.35"/>
+      <stop offset="70%" stop-color="#58A6FF" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#58A6FF" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="bodyGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#30363D"/>
+      <stop offset="100%" stop-color="#21262D"/>
+    </linearGradient>
+  </defs>
+
+  <!-- background -->
+  <rect width="400" height="400" fill="#0D1117"/>
+
+  <!-- spawn portal glow -->
+  <circle cx="200" cy="330" r="120" fill="url(#portalGlow)"/>
+
+  <!-- portal rings -->
+  <ellipse cx="200" cy="330" rx="110" ry="26" fill="none" stroke="#58A6FF" stroke-width="2" stroke-dasharray="6 10" opacity="0.8"/>
+  <ellipse cx="200" cy="330" rx="80" ry="18" fill="none" stroke="#58A6FF" stroke-width="1.5" stroke-dasharray="4 8" opacity="0.5"/>
+
+  <!-- rising spawn particles -->
+  <circle cx="120" cy="300" r="3" fill="#58A6FF" opacity="0.7"/>
+  <circle cx="290" cy="280" r="2.5" fill="#58A6FF" opacity="0.5"/>
+  <circle cx="270" cy="330" r="2" fill="#58A6FF" opacity="0.6"/>
+  <circle cx="135" cy="250" r="2" fill="#58A6FF" opacity="0.4"/>
+
+  <!-- legs -->
+  <rect x="178" y="270" width="16" height="55" rx="8" fill="url(#bodyGrad)"/>
+  <rect x="206" y="270" width="16" height="55" rx="8" fill="url(#bodyGrad)"/>
+  <ellipse cx="186" cy="328" rx="16" ry="7" fill="#161B22"/>
+  <ellipse cx="214" cy="328" rx="16" ry="7" fill="#161B22"/>
+
+  <!-- torso -->
+  <path d="M160 190 Q160 160 200 160 Q240 160 240 190 L236 275 Q200 288 164 275 Z" fill="url(#bodyGrad)" stroke="#58A6FF" stroke-width="1.5" opacity="0.95"/>
+
+  <!-- collar detail -->
+  <path d="M186 165 L200 178 L214 165" fill="none" stroke="#58A6FF" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- left arm holding coffee cup -->
+  <path d="M168 195 Q140 205 132 235 Q128 250 138 258" fill="none" stroke="url(#bodyGrad)" stroke-width="16" stroke-linecap="round"/>
+
+  <!-- coffee cup -->
+  <g transform="translate(112,238)">
+    <rect x="0" y="10" width="34" height="30" rx="4" fill="#21262D" stroke="#58A6FF" stroke-width="1.5"/>
+    <path d="M34 16 Q48 16 48 26 Q48 36 34 36" fill="none" stroke="#58A6FF" stroke-width="2"/>
+    <rect x="3" y="6" width="28" height="6" rx="3" fill="#30363D"/>
+    <!-- steam -->
+    <path d="M8 2 Q4 -6 10 -12" fill="none" stroke="#8B949E" stroke-width="2" stroke-linecap="round" opacity="0.7"/>
+    <path d="M18 2 Q14 -8 20 -14" fill="none" stroke="#8B949E" stroke-width="2" stroke-linecap="round" opacity="0.5"/>
+    <path d="M28 2 Q24 -6 30 -12" fill="none" stroke="#8B949E" stroke-width="2" stroke-linecap="round" opacity="0.6"/>
+  </g>
+
+  <!-- right arm relaxed -->
+  <path d="M232 195 Q258 210 260 240 Q261 255 250 262" fill="none" stroke="url(#bodyGrad)" stroke-width="16" stroke-linecap="round"/>
+
+  <!-- head -->
+  <circle cx="200" cy="128" r="42" fill="url(#bodyGrad)" stroke="#58A6FF" stroke-width="1.5"/>
+
+  <!-- headphones / hood detail nod to dev life -->
+  <path d="M158 122 Q158 84 200 84 Q242 84 242 122" fill="none" stroke="#58A6FF" stroke-width="4" stroke-linecap="round"/>
+  <rect x="150" y="112" width="14" height="22" rx="7" fill="#161B22" stroke="#58A6FF" stroke-width="1.5"/>
+  <rect x="236" y="112" width="14" height="22" rx="7" fill="#161B22" stroke="#58A6FF" stroke-width="1.5"/>
+
+  <!-- simple face -->
+  <circle cx="186" cy="128" r="3.5" fill="#C9D1D9"/>
+  <circle cx="214" cy="128" r="3.5" fill="#C9D1D9"/>
+  <path d="M190 144 Q200 150 210 144" fill="none" stroke="#C9D1D9" stroke-width="2.5" stroke-linecap="round"/>
+
+  <!-- caption -->
+  <text x="200" y="380" text-anchor="middle" font-family="monospace" font-size="13" fill="#8B949E">respawned. same player, new avatar.</text>
+</svg>
