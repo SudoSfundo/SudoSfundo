@@ -1,6 +1,8 @@
 <p align="center"><a href="https://portfolio-10u5.onrender.com"><img width="70%" alt="Sfundo: respawned, same player, new avatar" src="./assets/spawn-coffee.svg" /></a></p>
 <br />
 
+<sub> Career mode on >Tournament off > Exhibition <button>off <sub/>
+<br /> 
 Final-year IT student from South Africa, building full-stack apps and leaning into AI/ML.
 
 <br/>
@@ -14,7 +16,7 @@ Final-year IT student from South Africa, building full-stack apps and leaning in
 
 **About me**
 - 🎓 Undergraduate Bachelor of Computing in Software Engineering (NQF8) student researching **blockchain & consent management in healthcare**
-- 🛠️ Building **Smart Vitals** (health monitoring) and a gamified 3D portfolio
+- 🛠️ Building **Gee5 Tickets** (ticketing system) and a gamified 3D portfolio
 - 🤖 Rebuilding this profile to be a game-like, interactive one, slow going mostly because my AI keeps hallucinating and I keep running out of credits 😉
 - 🕹️ Join my lobby: [LinkedIn](https://www.linkedin.com/in/sfundo-khumalo-243313249) · [Email](mailto:sudosfundo01@gmail.com) · [Portfolio](https://portfolio-10u5.onrender.com)
 
