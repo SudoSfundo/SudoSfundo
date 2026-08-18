@@ -2,6 +2,8 @@
 <br />
 
 Final-year IT student from South Africa, building full-stack apps and leaning into AI/ML.
+
+<br/>
 <sub>What's on my mind: Brand new day 🕸🕷🦸🏻‍♂️ yes but the Sinusitis season is upcoming.</sub>
 
 **About me**
