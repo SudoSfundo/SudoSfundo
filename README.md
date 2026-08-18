@@ -4,7 +4,13 @@
 Final-year IT student from South Africa, building full-stack apps and leaning into AI/ML.
 
 <br/>
-<sub>What's on my mind: Brand new day 🕸🕷🦸🏻‍♂️ yes but the Sinusitis season is upcoming.</sub>
+<i>
+<sub><strong>What's on my mind:</strong> "Brand new day 🕸🕷🦸🏻‍♂️ yes but the Sinusitis season is upcoming."</sub>
+<i/>
+
+<br/>
+<br/>
+
 
 **About me**
 - 🎓 Undergraduate Bachelor of Computing in Software Engineering (NQF8) student researching **blockchain & consent management in healthcare**
