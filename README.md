@@ -21,6 +21,7 @@ Final-year IT student from South Africa, building full-stack apps and leaning in
 - 🎓 Undergraduate Bachelor of Computing in Software Engineering (NQF8) student researching **blockchain & consent management in healthcare**
 - 🛠️ Building **Gee5 Tickets** (ticketing system) and a gamified 3D portfolio
 - 🤖 Rebuilding this profile to be a game-like, interactive one, slow going mostly because my AI keeps hallucinating and I keep running out of credits 😉
+- 🐢 Love for tech at large and would describe myself as a self-driven engineer who enjoys tackling deep architectural challenges.
 - 🕹️ Join my lobby: [LinkedIn](https://www.linkedin.com/in/sfundo-khumalo-243313249) · [Email](mailto:sudosfundo01@gmail.com) · [Portfolio](https://portfolio-10u5.onrender.com)
 
 <details>
