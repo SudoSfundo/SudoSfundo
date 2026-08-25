@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=2600&pause=900&color=3b82ff&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Software+Engineer;DevOps+Engineer" alt="Typing SVG">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=2600&pause=900&color=3b82ff&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Software+Engineer;Cloud+Engineer" alt="Typing SVG">
 
 
 <p align="center"><a href="https://portfolio-10u5.onrender.com"><img width="70%" alt="Sfundo: respawned, same player, new avatar" src="./assets/spawn-coffee.svg" /></a></p>
