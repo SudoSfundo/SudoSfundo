@@ -7,7 +7,7 @@
 <sub> Career mode on >Tournament off > Exhibition <button>off <sub/>
 <br /> 
 Final-year IT student from South Africa, building full-stack apps and leaning into AI/ML.
-
+---
 <br/>
 <i>
 <sub><strong>What's on my mind:</strong> "Brand new day 🕸🕷🦸🏻‍♂️ yes but the Sinusitis season is upcoming."</sub>
@@ -16,7 +16,7 @@ Final-year IT student from South Africa, building full-stack apps and leaning in
 <br/>
 <br/>
 
-
+---
 **About me**
 - 🎓 Undergraduate Bachelor of Computing in Software Engineering (NQF8) student researching **blockchain & consent management in healthcare**
 - 🛠️ Building **Gee5 Tickets** (ticketing system) and a gamified 3D portfolio
