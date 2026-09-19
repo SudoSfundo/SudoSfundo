@@ -31,6 +31,7 @@ Final-year IT student from South Africa, building full-stack apps and leaning in
 | Month/ Level | Learned/ Badge | Pipeline :) | Next month's quest(s) |
 | --- | --- | --- | --- |
 | August 2026 | Wrapped up ASP.net course | MongoDB Course & personal use Agent research | Agent building in motion |
+| September 2026 | MongoDB Course & Escaped 2026 | personal use Agent research partially started | Agent building in motion, not there yet, I guess i lost here! |
 
 <sub>Hold me accountable and track me :) .</sub>
 
